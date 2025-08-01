@@ -1,0 +1,21 @@
+{
+    "Billing": [
+        "Estimate request",
+        "Invoice",
+        "Charges"
+    ],
+    "Services": [
+        "Packing",
+        "Transport",
+        "Unloading"
+    ],
+    "Booking": [
+        "Date change",
+        "Cancellation"
+    ],
+    "General": [
+        "Thank you",
+        "Feedback",
+        "Speak to agent"
+    ]
+}

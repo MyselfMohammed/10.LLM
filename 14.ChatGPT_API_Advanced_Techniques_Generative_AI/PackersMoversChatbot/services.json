@@ -1,0 +1,6 @@
+{
+    "Packing": "Includes all items including fragile packaging.",
+    "Loading & Unloading": "Charges based on house size and floor.",
+    "Waiting Charges": "First 6 hours free, extra hours charged.",
+    "Transportation": "Depends on distance, vehicle, and city type."
+}
