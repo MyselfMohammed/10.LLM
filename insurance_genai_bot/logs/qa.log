@@ -1,0 +1,303 @@
+2025-08-15 11:12:20,621 - INFO - QUERY: What does my insurance cover?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,035 - INFO - QUERY: Do I have to pay for medical bills upfront?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,036 - INFO - QUERY: What if I get a bill for covered treatment?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,036 - INFO - QUERY: How are medical bills submitted to Medrisk?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,044 - INFO - QUERY: Does Medrisk negotiate medical rates?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,045 - INFO - QUERY: Are over-the-counter items covered?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,045 - INFO - QUERY: How long does it take for a provider to get paid?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,046 - INFO - QUERY: Can I get reimbursed for medical equipment I purchased?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,046 - INFO - QUERY: Does Medrisk cover durable medical equipment like braces?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,047 - INFO - QUERY: What if a bill is denied?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,047 - INFO - QUERY: Are pharmacy bills handled differently?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,048 - INFO - QUERY: How do I start a medical claim for a work injury?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,049 - INFO - QUERY: What documents are needed to process my claim?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,049 - INFO - QUERY: How long does it take to get treatment approval?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,050 - INFO - QUERY: Who decides if treatment is medically necessary?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,050 - INFO - QUERY: Can treatment be denied?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,051 - INFO - QUERY: How do I appeal a treatment denial?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,051 - INFO - QUERY: Is prior authorization required for diagnostic tests like MRIs?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,052 - INFO - QUERY: Who pays for follow-up visits?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,052 - INFO - QUERY: Can I get a second medical opinion?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,053 - INFO - QUERY: How is my wage replacement affected by my medical claim?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,053 - INFO - QUERY: Why must I use an in-network provider?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,054 - INFO - QUERY: What happens if I go to a provider outside the network?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,055 - INFO - QUERY: Can my employer choose my treating doctor?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,055 - INFO - QUERY: What is utilization review?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,055 - INFO - QUERY: Is telehealth covered for workers’ comp medical visits?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,056 - INFO - QUERY: Are language interpretation services available?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,056 - INFO - QUERY: Does Medrisk follow state workers’ compensation laws?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,057 - INFO - QUERY: What is an Independent Medical Examination (IME)?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,057 - INFO - QUERY: What if I miss an appointment without notice?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,057 - INFO - QUERY: How do I contact my claims adjuster?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,058 - INFO - QUERY: What is workers’ compensation medical insurance?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,058 - INFO - QUERY: Who pays for medical treatment under workers’ compensation?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,058 - INFO - QUERY: Is there any cost to the injured worker for covered treatment?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,059 - INFO - QUERY: What types of injuries are covered by workers’ compensation medical insurance?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,059 - INFO - QUERY: Are pre-existing conditions covered?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,060 - INFO - QUERY: Does workers’ comp cover emergency medical care?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,060 - INFO - QUERY: How soon must an injury be reported to qualify for benefits?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,060 - INFO - QUERY: Can I choose my own doctor under workers’ comp?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,061 - INFO - QUERY: What is a medical provider network?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,061 - INFO - QUERY: Does coverage include prescription medications?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,061 - INFO - QUERY: Does Medrisk cover physical therapy?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,062 - INFO - QUERY: How is physical therapy authorized?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,062 - INFO - QUERY: Are there limits on the number of physical therapy visits?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,062 - INFO - QUERY: Can I choose my own physical therapist?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,063 - INFO - QUERY: What conditions commonly require physical therapy in workers’ comp cases?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,063 - INFO - QUERY: Is occupational therapy different from physical therapy?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,064 - INFO - QUERY: Does Medrisk require progress reports from the therapist?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,064 - INFO - QUERY: Will workers’ comp cover transportation to therapy appointments?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,065 - INFO - QUERY: Are home exercise programs part of covered therapy?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:30:56,065 - INFO - QUERY: What happens if my therapy is denied?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,580 - INFO - QUERY: Do I have to pay for medical bills upfront?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,581 - INFO - QUERY: What if I get a bill for covered treatment?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,581 - INFO - QUERY: How are medical bills submitted to Medrisk?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,582 - INFO - QUERY: Does Medrisk negotiate medical rates?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,582 - INFO - QUERY: Are over-the-counter items covered?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,582 - INFO - QUERY: How long does it take for a provider to get paid?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,582 - INFO - QUERY: Can I get reimbursed for medical equipment I purchased?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,583 - INFO - QUERY: Does Medrisk cover durable medical equipment like braces?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,583 - INFO - QUERY: What if a bill is denied?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,584 - INFO - QUERY: Are pharmacy bills handled differently?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,584 - INFO - QUERY: How do I start a medical claim for a work injury?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,584 - INFO - QUERY: What documents are needed to process my claim?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,585 - INFO - QUERY: How long does it take to get treatment approval?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,585 - INFO - QUERY: Who decides if treatment is medically necessary?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,585 - INFO - QUERY: Can treatment be denied?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,586 - INFO - QUERY: How do I appeal a treatment denial?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,586 - INFO - QUERY: Is prior authorization required for diagnostic tests like MRIs?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,586 - INFO - QUERY: Who pays for follow-up visits?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,587 - INFO - QUERY: Can I get a second medical opinion?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,587 - INFO - QUERY: How is my wage replacement affected by my medical claim?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,587 - INFO - QUERY: Why must I use an in-network provider?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,588 - INFO - QUERY: What happens if I go to a provider outside the network?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,588 - INFO - QUERY: Can my employer choose my treating doctor?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,589 - INFO - QUERY: What is utilization review?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,589 - INFO - QUERY: Is telehealth covered for workers’ comp medical visits?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,589 - INFO - QUERY: Are language interpretation services available?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,590 - INFO - QUERY: Does Medrisk follow state workers’ compensation laws?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,590 - INFO - QUERY: What is an Independent Medical Examination (IME)?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,591 - INFO - QUERY: What if I miss an appointment without notice?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,591 - INFO - QUERY: How do I contact my claims adjuster?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,591 - INFO - QUERY: What is workers’ compensation medical insurance?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,592 - INFO - QUERY: Who pays for medical treatment under workers’ compensation?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,592 - INFO - QUERY: Is there any cost to the injured worker for covered treatment?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,592 - INFO - QUERY: What types of injuries are covered by workers’ compensation medical insurance?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,593 - INFO - QUERY: Are pre-existing conditions covered?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,593 - INFO - QUERY: Does workers’ comp cover emergency medical care?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,593 - INFO - QUERY: How soon must an injury be reported to qualify for benefits?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,593 - INFO - QUERY: Can I choose my own doctor under workers’ comp?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,594 - INFO - QUERY: What is a medical provider network?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,594 - INFO - QUERY: Does coverage include prescription medications?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,594 - INFO - QUERY: Does Medrisk cover physical therapy?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,594 - INFO - QUERY: How is physical therapy authorized?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,595 - INFO - QUERY: Are there limits on the number of physical therapy visits?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,595 - INFO - QUERY: Can I choose my own physical therapist?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,595 - INFO - QUERY: What conditions commonly require physical therapy in workers’ comp cases?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,596 - INFO - QUERY: Is occupational therapy different from physical therapy?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,596 - INFO - QUERY: Does Medrisk require progress reports from the therapist?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,596 - INFO - QUERY: Will workers’ comp cover transportation to therapy appointments?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,597 - INFO - QUERY: Are home exercise programs part of covered therapy?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}
+2025-08-15 11:53:37,597 - INFO - QUERY: What happens if my therapy is denied?
+ANSWER: This insurance policy covers medical emergencies.
+CHECKS: {'nonempty': True, 'not_hallucination': True, 'no_pii': True}

@@ -1,0 +1,12 @@
+python-dotenv
+scikit-learn
+streamlit
+openai
+langchain
+langchain-community
+langchain-openai
+unstructured
+networkx
+openpyxl
+python-docx
+msoffcrypto-tool
